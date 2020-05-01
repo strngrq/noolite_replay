@@ -6,8 +6,8 @@ This project aims to replay Noolite remote RC sequences. Sequences should be cap
 
 ## How to use it.
 
-1. Plug the RC receiver to PIN 2 of your Arduino. Run oolite_scan.ino sketch and open the serial monitor.
-2. Press the button of Noolite remote, reset Arduino or tuen it off and on.
+1. Plug the RC receiver to PIN 2 of your Arduino. Run noolite_scan.ino sketch and open the serial monitor.
+2. Press the button of Noolite remote, reset Arduino or turn it off and on.
 3. Repeat step 2 to scan second RC sequence of the button
 
 ## Then
