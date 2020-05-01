@@ -12,6 +12,6 @@ This project aims to replay Noolite remote RC sequences. Sequences should be cap
 
 ## Then
 
-4. Copy output of noolite_scan.ino to seq1 and seq2 arrays of noolite_replay.ino
+4. Copy output of noolite_scan.ino to the *seq1* and *seq2* arrays of noolite_replay.ino
 5. Plug the RC transmittert to PIN 4 of Arduino
 6. Run noolite_replay.ino to automate of pressing specified button
